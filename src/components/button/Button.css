@@ -1,0 +1,6 @@
+.button-style{
+  border:1px solid gray;
+  padding: 10px;
+  text-transform: capitalize;
+  border-radius: 2px;
+}
